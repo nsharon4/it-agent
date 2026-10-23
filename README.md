@@ -47,6 +47,12 @@ cp -r skill/it-quick-support ~/.claude/skills/
 
 Start a new Claude Code session and describe the problem, for example "the printer doesn't work", or invoke `/it-quick-support`. The skill keeps its reports, tickets, error log and local knowledge base under `Documents\IT-Agent-Quick` on your PC. Nothing is sent anywhere else.
 
+## Coming soon: Licensed to Fix
+
+A Claude Code plugin named **Licensed to Fix** is in the works. It will package the IT Agent skill for easier installation. It is not available yet; until then, use the prompt and skill from this repository as described above.
+
+Plugin home (coming soon): https://licensed-to-fix.app
+
 ## Changelog
 
 See [CHANGELOG.md](CHANGELOG.md) for the v2.7 changes.
